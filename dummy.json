@@ -1,0 +1,15 @@
+{
+    "nombre":"Dayaneth",
+    "mensaje":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    "precio":20000,
+    "medidas":"105-63-90",
+    "servicios":["Normales","Trios","Parejas"],
+    "foto":"placeholder.jpg",
+    "galeria":["","",""], 
+    "telefono":"97656776",
+    "edad":24,
+    "estatura":"1.65",
+    "peso":"59",
+    "horario":"Lunes a Viernes. Horario continuado de 10:00 a 20:00",
+    "sector":"Santiago Centro"
+  }
